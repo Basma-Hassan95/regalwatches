@@ -58,6 +58,11 @@ regalwatches/
 
 ---
 
+## 📸 Screenshot
+
+![Regal Watches Screenshot](./assets/images/screenshot.png)
+
+
 ## ⭐ Like this project?
 
 Give it a ⭐ on GitHub to help it grow!
