@@ -60,7 +60,10 @@ regalwatches/
 
 ## 📸 Screenshot
 
-screencapture-regalwatches-netlify-app-2025-07-12-01_37_52.png
+## 📸 Screenshot
+
+![Regal Watches Screenshot](screencapture-regalwatches-netlify-app-2025-07-12-01_37_52.png)
+
 
 
 ## ⭐ Like this project?
